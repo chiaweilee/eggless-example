@@ -1,0 +1,22 @@
+{
+  "name": "eggless-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eggless start",
+    "stop": "eggless stop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/eggless-example.git"
+  },
+  "author": "+v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/eggless-example/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/eggless-example#readme",
+  "dependencies": {
+    "eggless": "latest"
+  }
+}
